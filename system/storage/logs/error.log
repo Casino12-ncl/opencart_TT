@@ -1,0 +1,70 @@
+2023-04-07 9:45:51 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\a3\a35626586eee7374fd382fad70fb26211693619d80da244b7647f7f6eca2cede.php on line 70
+2023-04-07 9:45:51 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\a3\a35626586eee7374fd382fad70fb26211693619d80da244b7647f7f6eca2cede.php on line 111
+2023-04-07 9:46:17 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\18\18ba50c6ca31804b3b82b1d3de3ee1e2611618d843a5e1bb58c6cf0a22f8a0b8.php on line 70
+2023-04-07 9:46:17 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\18\18ba50c6ca31804b3b82b1d3de3ee1e2611618d843a5e1bb58c6cf0a22f8a0b8.php on line 111
+2023-04-07 9:47:23 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\21\212d741a3d48088846356c72e58f1693ce9157fb6611a999ef6b6d9da6045186.php on line 70
+2023-04-07 9:47:23 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\21\212d741a3d48088846356c72e58f1693ce9157fb6611a999ef6b6d9da6045186.php on line 111
+2023-04-07 9:47:55 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 70
+2023-04-07 9:47:55 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 111
+2023-04-07 9:48:27 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 70
+2023-04-07 9:48:27 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 111
+2023-04-07 9:48:30 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 70
+2023-04-07 9:48:30 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 111
+2023-04-07 9:48:33 - PHP Warning:  Undefined array key "sorts" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 70
+2023-04-07 9:48:33 - PHP Warning:  Undefined array key "limits" in C:\OSPanel\domains\localhost\opencart\system\storage\cache\template\cc\cc67ff4e856bd877846e337f712f947151ee37b6a60da9312281d96ed1606e2b.php on line 111
+2023-04-07 13:21:27 - PHP Warning:  Undefined array key "thumb" in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 149
+2023-04-07 13:21:47 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 149
+2023-04-07 13:22:01 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 151
+2023-04-07 13:23:33 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 151
+2023-04-07 13:24:01 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 151
+2023-04-07 13:42:06 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 150
+2023-04-07 13:43:42 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 152
+2023-04-07 13:44:12 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\product\category.php on line 152
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:13 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:13 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Array to string conversion in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
+2023-04-07 13:48:16 - PHP Warning:  Undefined property: Proxy::$Array in C:\OSPanel\domains\localhost\opencart\system\engine\proxy.php on line 20
+2023-04-07 13:48:16 - PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\opencart\catalog\controller\common\menu.php on line 40
